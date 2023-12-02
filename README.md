@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Archit Barve</h1>
 <h3 align="center">A passionate cloud and cloud native enthusiast from India,looking forward to contributing in cloud and cloud native projects.</h3>

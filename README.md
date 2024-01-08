@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahb102&label=Profile%20views&color=0e75b6&style=flat-square" alt="ahb102" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahb102" alt="ahb102" /></a> </p>
 
 - 🔭 I’m currently working on **Ecom: A microservice based in gin and gonic**
 
